@@ -1,17 +1,19 @@
 # React Native AES
 
+**Attention**: This is a fork of https://github.com/tectiv3/react-native-aes, made only to be able to use the latest changes, that were not yet published on NPM.
+
 AES encryption/decryption for react-native
 
 ## Installation
 
 ```sh
-npm install --save react-native-aes-crypto
+npm install --save @kntu/react-native-aes-crypto
 ```
 
 or
 
 ```sh
-yarn add react-native-aes-crypto
+yarn add @kntu/react-native-aes-crypto
 ```
 
 ### Installation (iOS)
